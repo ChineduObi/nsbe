@@ -1,15 +1,5 @@
 NSBE mUN Student University Society
-Table of Contents
-Introduction
-Mission Statement
-Goals
-Membership
-Events and Activities
-Leadership Structure
-Meetings
-Communication
-Contact Information
-Introduction
+
 Welcome to the NSBE mUN Student University Society! This document serves as a comprehensive guide to our society, outlining our mission, goals, structure, and activities. We aim to foster a supportive community for Black engineering students at our university, promoting academic excellence, professional development, and community engagement.
 
 Mission Statement
@@ -64,7 +54,7 @@ Group Chat: Join our WhatsApp or Slack group for quick communication and network
 Contact Information
 For any questions, suggestions, or more information, please contact us:
 
-Email: nsbe_mun@example.com
+Email: nsbemun@gmail.com
 Office Location: Engineering Building, mUN Campus
 Office Hours: Mondays and Wednesdays, 3:00 PM - 5:00 PM
 We look forward to your active participation in the NSBE mUN Student University Society! Together, we will achieve excellence through unity and innovation.
